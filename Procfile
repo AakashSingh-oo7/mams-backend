@@ -1,1 +1,1 @@
-web: java -jar myapp.jar
+web: java -jar mams-0.0.1-SNAPSHOT.jar
